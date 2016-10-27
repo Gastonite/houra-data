@@ -1,0 +1,7 @@
+id: data
+steps:
+  - dogwater
+  - ./resource
+structure:
+  models: models
+  controllers: controllers
