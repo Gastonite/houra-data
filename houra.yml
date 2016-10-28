@@ -1,6 +1,6 @@
 id: data
 steps:
-  - dogwater
+  - ./dogwater
   - ./resource
 structure:
   models: models

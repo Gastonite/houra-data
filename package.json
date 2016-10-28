@@ -17,8 +17,13 @@
   },
   "homepage": "https://github.com/Gastonite/houra-data#readme",
   "dependencies": {
+    "bedwetter": "^1.8.2",
     "dogwater": "^2.2.0",
+    "lodash.capitalize": "^4.2.1",
     "lodash.isplainobject": "^4.0.6",
-    "waterline": "^0.11.4"
+    "sails-memory": "^0.10.7",
+    "sails-mongo": "^0.12.1",
+    "waterline": "^0.11.4",
+    "boom": "latest"
   }
 }
